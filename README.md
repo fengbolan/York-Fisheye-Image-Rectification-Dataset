@@ -6,7 +6,7 @@ This dataset provides paired perspective camera images and fisheye camera images
 | :-------------: |:-------------:| :-------------:| :-----:|
 | Pack of smokies      | [yd](https://www.blendswap.com/profile/5455)      |   [link](https://www.blendswap.com/blend/24690) | CC-0|
 | Chair      | [pujiyanto](https://www.blendswap.com/profile/918426)      |   [link](https://www.blendswap.com/blend/24551) | CC-0|
-| Human skull      | [geoffreymarchal](https://www.blendswap.com/profile/180520)      |   [link](https://www.blendswap.com/blend/24551) | CC-BY-NC|
+| Human skull      | [geoffreymarchal](https://www.blendswap.com/profile/180520)      |   [link](https://www.blendswap.com/blend/23998) | CC-BY-NC|
 | Cyber Teddy      | [slimshadow](https://www.blendswap.com/profile/223336)      |   [link](https://www.blendswap.com/blend/22229) | CC-BY-NC-SA |
 
 ## Citation
