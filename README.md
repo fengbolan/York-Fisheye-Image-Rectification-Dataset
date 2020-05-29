@@ -9,3 +9,11 @@ This dataset provides paired perspective camera images and fisheye camera images
 | Human skull      | [geoffreymarchal](https://www.blendswap.com/profile/180520)      |   [link](https://www.blendswap.com/blend/24551) | CC-BY-NC|
 | Cyber Teddy      | [slimshadow](https://www.blendswap.com/profile/223336)      |   [link](https://www.blendswap.com/blend/22229) | CC-BY-NC-SA |
 
+## Citation
+If you want to use this dataset, please cite this paper.
+```
+Fengbo Lan, Cheng Yang, Gene Cheung, Jack Z. G. Tan, 
+"Joint Demosaicking / Rectification of Fisheye Camera Images Using Multi-Color Graph Laplacian Regularization," 
+accepted to IEEE International Conference on Image Processing, 
+Abu Dhabi, United Arab Emirates, October 2020.
+```
