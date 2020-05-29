@@ -1,0 +1,3 @@
+# GISP-Fisheye-Rectification-Dataset
+
+This dataset provides paired prespective camera image and fisheye camera image as well as the reverse mapping matrix. These images are rendered directly with 3D models via the software blender, where the models are created by some artists and with publicly distribution license. With these models we create animation to capture 3D objects from different angles into a sequence of frames with pinhole and fisheye cameras, respectively. The resolution of these frames is rendered as 512 pixels. We then save these frames into images with lossless compression and generate the dataset.
