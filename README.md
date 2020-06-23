@@ -12,8 +12,10 @@ This dataset provides paired perspective camera images and fisheye camera images
 ## Citation
 If you want to use this dataset, please cite this paper.
 ```
-Fengbo Lan, Cheng Yang, Gene Cheung, Jack Z. G. Tan, 
-"Joint Demosaicking / Rectification of Fisheye Camera Images Using Multi-Color Graph Laplacian Regularization," 
-accepted to IEEE International Conference on Image Processing, 
-Abu Dhabi, United Arab Emirates, October 2020.
+@article{lan2020colorglr,
+  title={Joint Demosaicking / Rectification of Fisheye Camera Images Using Multi-Color Graph Laplacian Regularization},
+  author={Lan, Fengbo and Yang, Cheng and Cheung, Gene and Tan, Jack ZG},
+  journal={arXiv preprint arXiv:2006.11636},
+  year={2020}
+}
 ```
